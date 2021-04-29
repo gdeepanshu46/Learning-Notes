@@ -1,0 +1,44 @@
+# JavaScript Notes
+
+## Points to remember-
+
+- Always include your JS at the end of the html file, just before the body closing tag, so that the html css loads first then the JS.
+- There are two ways to include JS in html files-
+  - Add JS using script tags inside the html file.
+  - Recommended way : create a separate JS file.
+- Using semicolon is not mandatory but it is good practice to use it.
+- Console.log is more preferred than alert() for debugging purposes.
+- MDN(Mozilla Developer Network) has the best documentation for JS.
+- Always use === as it does data type matching as well.
+
+### Variables 
+
+- let and const are used to declare variables, let is used for reassignable values and const for constant variables.
+- They both have block level scope.
+
+### Data types
+
+- String, Numbers, Boolean, null, undefined, also Symbol were added in ES6.
+
+### Things learnt 
+
+- Script Tags 
+- Console Output 
+- Variables
+- Data Types 
+- Strings & String Methods 
+- Arrays 
+- Object Literals
+- Arrays Of Objects & JSON
+- Loops 
+- High Order Array Methods 
+- Conditionals 
+- Functions 
+- Arrow Functions
+- Constructor Functions & Prototypes
+- ES6 Classes 
+- Window Object & DOM
+- DOM Selection 
+- Manipulating The DOM
+- Events
+- Form Script 
